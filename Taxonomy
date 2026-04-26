@@ -1,0 +1,18 @@
+# Полная таксономия видов млекопитающих (по данным NCBI Taxonomy Browser)
+
+| № | Русское название      | Латинское название (вид)    | NCBI TaxID | Царство  | Тип      | Класс    | Отряд        | Семейство |
+|---|-----------------------|-----------------------------|------------|----------|----------|----------|--------------|-----------|
+| 1 | Человек разумный      | *Homo sapiens*              |   [9606]   | Animalia | Chordata | Mammalia | Primates     | Hominidae |
+| 2 | Шимпанзе обыкновенное | *Pan troglodytes*           |   [9598]   | Animalia | Chordata | Mammalia | Primates     | Hominidae |
+| 3 | Морж                  | *Odobenus rosmarus*         |   [9707]   | Animalia | Chordata | Mammalia | Carnivora    | Odobenidae |
+| 4 | Большой листонос      | *Hipposideros armiger*      |   [186990] | Animalia | Chordata | Mammalia | Chiroptera   | Hipposideridae |
+| 5 | Волк                  | *Canis lupus*               |   [9612]   | Animalia | Chordata | Mammalia | Carnivora    | Canidae |
+| 6 | Бык домашний          | *Bos taurus*                |   [9913]   | Animalia | Chordata | Mammalia | Artiodactyla | Bovidae |
+| 7 | Медведь бурый         | *Ursus arctos*              |   [9644]   | Animalia | Chordata | Mammalia | Carnivora    | Ursidae |
+| 8 | Ласка                 | *Mustela nivalis*           |   [36239]  | Animalia | Chordata | Mammalia | Carnivora    | Mustelidae |
+| 9 | Малый полосатик       | *Balaenoptera acutorostrata*| [9767]     | Animalia | Chordata | Mammalia | Cetacea      | Balaenopteridae |
+| 10 | Лань                 | *Dama dama*                 |   [30532]  | Animalia | Chordata | Mammalia | Artiodactyla | Cervidae |
+
+## Источник данных
+
+Таксономическая информация получена из базы данных [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy).
