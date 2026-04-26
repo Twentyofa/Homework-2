@@ -1,0 +1,43 @@
+text
+
+---
+
+## 2. Параметры BLAST для поиска гомологов
+
+**Инструмент:** NCBI BLASTn (nucleotide BLAST)
+
+**Дата выполнения:** 27.04.2026
+
+**Параметры поиска:**
+
+| Параметр | Значение |
+|----------|----------|
+| Программа | blastn |
+| База данных | nr/nt (non-redundant nucleotide collection) |
+| Организм | exclude human (taxid:9606) |
+| Max target sequences | 250 |
+| Expect threshold | 10 |
+| Word size | 11 |
+| Match/mismatch scores | 1, -2 |
+| Gap costs | Linear |
+
+---
+
+## 3. Таблица полученных гомологичных генов
+№|	|Gene Symbol (варианты)||Название вида (латынь)|	    |Название вида (русский)|	|Класс / Отряд
+1|	|HBB|	                  |Homo sapiens 	              |Человек разумный	        |Приматы
+2|	|HBB|	                  |Pan troglodytes	            |Обыкновенный шимпанзе	  |Приматы
+3|	|HBB|	                  |Odobenus rosmarus	          |Морж	                    |Хищные
+4|	|HBB|	                  |Hipposideros armiger	        |Летучая мышь	            |Рукокрылые
+5|	|HBB|	                  |Canis lupus	                |Волк	                    |Хищные
+6|	|HBB|	                  |Bos taurus	                  |Домашний бык	            |Китопарнокопытные
+7|	|HBB|	                  |Ursus arctos	                |Бурый медведь	          |Хищные
+8|	|HBB|	                  |Mustela nivalis	            |Ласка	                  |Хищные
+9|	|HBB|	                  |Balaenoptera acutorostrata 	|Северный малый полосатик	|Китопарнокопытные
+10|	|HBB|	                  |Dama dama	                  |Лань	                    |Китопарнокопытные
+
+---
+
+## 4. Файл множественного выравнивания (формат Clustal)
+
+Полный файл выравнивания (670 позиций) прилагается в репозитории как `multiple_alignment.clustal`.
