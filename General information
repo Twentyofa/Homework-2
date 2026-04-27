@@ -13,8 +13,7 @@
 | Max target sequences | 250 |
 | Expect threshold | 10 |
 | Word size | 11 |
-| Match/mismatch scores | 1, -2 |
-| Gap costs | Linear |
+
 
 ---
 
